@@ -1,17 +1,20 @@
 <%--
   Created by IntelliJ IDEA.
-  User: luk
-  Date: 2016/11/18
-  Time: 17:41
+  User: nebula
+  Date: 2016/11/11
+  Time: 16:30
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>客户管理-创建客户</title>
 </head>
 <body>
-    <h1>Hello!</h1>
-    <h2>当前时间: ${currentTime}</h2>
+
+<h1>创建客户界面</h1>
+
+<%-- TODO --%>
+
 </body>
 </html>
